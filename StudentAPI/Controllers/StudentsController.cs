@@ -146,6 +146,5 @@ namespace StudentAPI.Controllers
             //we return the DTO not the full student object.
             return Ok(student.StudentDTO);
         }
-
     }
 }
