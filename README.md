@@ -33,6 +33,8 @@ This project is a simple **Web API** for managing student data, developed using 
 | PUT    | `/api/Student/Update/{id}`   | Update student data        |
 | DELETE | `/api/Student/Delete/{id}`   | Delete a student           |
 
+### [Student API - Sawgger Image](https://drive.google.com/file/d/1bR4pzZANAmEYhDNq65QOoswXHqPvmDG3/view?usp=drive_link)
+
 ## Database 🛢️
 
 The database used is **SQL Server**.
