@@ -35,6 +35,38 @@ This project is a simple **Web API** for managing student data, developed using 
 
 ### [Student API - Sawgger Image](https://drive.google.com/file/d/1bR4pzZANAmEYhDNq65QOoswXHqPvmDG3/view?usp=drive_link)
 
+## 📁 Folder Structure
+
+### **StudentAPI**
+
+```
+│   Program.cs
+│
+├── Controllers
+│     └── StudentsController.cs
+│
+└── Properties
+      └── launchSettings.json
+```
+
+### **Business Logic**
+
+```
+│   Student.cs
+```
+
+### **Data Access**
+
+```
+│   StudentData.cs
+```
+
+### **Shared**
+
+```
+│   Models.cs
+```
+
 ## Database 🛢️
 
 The database used is **SQL Server**.
